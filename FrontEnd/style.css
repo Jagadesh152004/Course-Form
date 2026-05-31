@@ -49,7 +49,7 @@ body{
 }
 
 .Body{
-    background-image: url("/Images/BackCourse.jpg");
+    background-image: url("./Images/BackCourse.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
